@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#================================================
+# 独自定義
+#================================================
+RPG_Learning_001/Saved/*
+RPG_Learning_001/Intermediate/*
